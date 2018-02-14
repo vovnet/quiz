@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="start">Старт</string>
+    <string name="statistic">Статистика</string>
+    <string name="remove">Очистить статистику</string>
+    <string name="next">Далее</string>
+    <string name="i_know">Знаю</string>
+    <string name="i_dont_know">Не знаю</string>
+    <string name="db_error">Ошибка базы данных.</string>
+    <string name="sure">Вы уверены?</string>
+    <string name="yes">Да</string>
+    <string name="select_file">Выбор базы данных</string>
+    <string name="table_ia_empty">Таблица пуста.</string>
+    <string name="answers">вопросы</string>
+    <string name="percent">%</string>
+    <string name="views">показы</string>
+    <color name="colorAnswer">#dbffd7</color>
+    <color name="colorQuestion">#e3ebff</color>
+    <color name="colorGreen">#52ab1f</color>
+    <color name="colorBlue">#3789d6</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorLightGreen">#caffb7</color>
+    <color name="colorLightYellow">#fffcb3</color>
+    <color name="colorLightRed">#ffc3c3</color>
+    <color name="colorGray">#bfbfbf</color>
+</resources>
